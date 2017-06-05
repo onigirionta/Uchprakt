@@ -1,0 +1,208 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ontaria/Документы/Учебная практика/src/configManager.cpp
+json.hpp
+/home/ontaria/Документы/Учебная практика/src/json.hpp
+iostream
+/home/ontaria/Документы/Учебная практика/src/iostream
+constraints.cpp
+/home/ontaria/Документы/Учебная практика/src/constraints.cpp
+fstream
+-
+string
+-
+
+/home/ontaria/Документы/Учебная практика/src/constraints.cpp
+climits
+/home/ontaria/Документы/Учебная практика/src/climits
+vector
+/home/ontaria/Документы/Учебная практика/src/vector
+math.h
+-
+json.hpp
+/home/ontaria/Документы/Учебная практика/src/json.hpp
+fstream
+-
+map
+-
+string
+-
+iostream
+/home/ontaria/Документы/Учебная практика/src/iostream
+constraints.h
+/home/ontaria/Документы/Учебная практика/src/constraints.h
+
+/home/ontaria/Документы/Учебная практика/src/constraints.h
+climits
+/home/ontaria/Документы/Учебная практика/src/climits
+vector
+/home/ontaria/Документы/Учебная практика/src/vector
+math.h
+-
+json.hpp
+/home/ontaria/Документы/Учебная практика/src/json.hpp
+fstream
+-
+map
+-
+string
+-
+iostream
+/home/ontaria/Документы/Учебная практика/src/iostream
+
+/home/ontaria/Документы/Учебная практика/src/gnuplot-iostream.h
+cstdio
+-
+termios.h
+-
+unistd.h
+-
+util.h
+-
+pty.h
+-
+fstream
+-
+iostream
+-
+sstream
+-
+stdexcept
+-
+string
+-
+utility
+-
+iomanip
+-
+vector
+-
+complex
+-
+cstdlib
+-
+cmath
+-
+tuple
+-
+boost/iostreams/device/file_descriptor.hpp
+-
+boost/iostreams/stream.hpp
+-
+boost/version.hpp
+-
+boost/utility.hpp
+-
+boost/tuple/tuple.hpp
+-
+boost/mpl/bool.hpp
+-
+boost/filesystem.hpp
+-
+boost/cstdint.hpp
+-
+blitz/array.h
+-
+windows.h
+-
+
+/home/ontaria/Документы/Учебная практика/src/json.hpp
+algorithm
+-
+array
+-
+cassert
+-
+cctype
+-
+ciso646
+-
+cmath
+-
+cstddef
+-
+cstdint
+-
+cstdlib
+-
+cstring
+-
+forward_list
+-
+functional
+-
+initializer_list
+-
+iomanip
+-
+iostream
+-
+iterator
+-
+limits
+-
+locale
+-
+map
+-
+memory
+-
+numeric
+-
+sstream
+-
+stdexcept
+-
+string
+-
+type_traits
+-
+utility
+-
+vector
+-
+
+/home/ontaria/Документы/Учебная практика/src/plant.c
+math.h
+-
+time.h
+-
+stdio.h
+-
+stdlib.h
+-
+plant.h
+/home/ontaria/Документы/Учебная практика/src/plant.h
+
+/home/ontaria/Документы/Учебная практика/src/plant.h
+
+/home/ontaria/Документы/Учебная практика/src/plantcontrol.cpp
+iostream
+/home/ontaria/Документы/Учебная практика/src/iostream
+constraints.h
+/home/ontaria/Документы/Учебная практика/src/constraints.h
+limits
+-
+constraints.cpp
+/home/ontaria/Документы/Учебная практика/src/constraints.cpp
+configManager.cpp
+/home/ontaria/Документы/Учебная практика/src/configManager.cpp
+plant.c
+/home/ontaria/Документы/Учебная практика/src/plant.c
+plant.h
+/home/ontaria/Документы/Учебная практика/src/plant.h
+vector
+-
+cmath
+-
+boost/tuple/tuple.hpp
+-
+gnuplot-iostream.h
+/home/ontaria/Документы/Учебная практика/src/gnuplot-iostream.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-lboost_iostreams CMakeFiles/plantcontrol.dir/plantcontrol.cpp.o  -o plantcontrol /usr/lib64/libboost_system.so /usr/lib64/libboost_filesystem.so 

@@ -1,0 +1,3 @@
+/home/ontaria/Документы/Учебная практика/src/CMakeFiles/rebuild_cache.dir
+/home/ontaria/Документы/Учебная практика/src/CMakeFiles/edit_cache.dir
+/home/ontaria/Документы/Учебная практика/src/CMakeFiles/plantcontrol.dir
